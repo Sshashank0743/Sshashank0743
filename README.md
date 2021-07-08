@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sshashank0743?tab=projects](https://github.com/Sshashank0743?tab=projects)
 
-- 📝 I regularly write articles on [https://shashank00.medium.com/](https://shashank00.medium.com/)
+- 📝 I write articles on [https://shashank00.medium.com/](https://shashank00.medium.com/)
 
 - 💬 Ask me about **Anything, I am ready to help.**
 
