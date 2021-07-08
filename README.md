@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-[linkedin](https://www.linkedin.com/in/shashankshukla02/)       [twitter]()       kaggle       mail
+
+[linkedin](https://www.linkedin.com/in/shashankshukla02/)       [twitter](https://twitter.com/Shashan22341833)       [kaggle](https://www.kaggle.com/shashankshukla9919)       [mail](dsshuklashashank@gmail.com)
 
 I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -16,5 +16,3 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 
 languages and tools:
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-
--->
