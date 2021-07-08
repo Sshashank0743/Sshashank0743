@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sshashank0743/Sshashank0743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin](https://www.linkedin.com/in/shashankshukla02/)       [twitter]()       kaggle       mail
 
 I am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -16,4 +16,5 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 
 languages and tools:
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
 -->
