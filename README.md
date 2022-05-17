@@ -50,6 +50,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shashankshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashankshukla" /></a></p><br><br>
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshashank0743&show_icons=true&locale=en&layout=compact" alt="sshashank0743" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshashank0743&show_icons=true&locale=en" alt="sshashank0743" /></p>
