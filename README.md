@@ -44,16 +44,21 @@
 <a href="https://auth.geeksforgeeks.org/user/dsshuklashashank/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dsshuklashashank/profile" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
+
+<h3 align="left">Buy me a coffee:</h3>
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 <p><a href="https://www.buymeacoffee.com/shashankshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashankshukla" /></a></p><br><br>
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshashank0743&show_icons=true&locale=en&layout=compact" alt="sshashank0743" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshashank0743&show_icons=true&locale=en" alt="sshashank0743" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshashank0743&" alt="sshashank0743" /></p>
+
+
+### Some insights about Github Profile
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sshashank0743&theme=synthwave)](https://github.com/sshashank0743/github-readme-stats)
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshashank0743&count_private=true&theme=synthwave)
+
+
