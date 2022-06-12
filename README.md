@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/shashan22341833" target="blank"><img src="https://img.shields.io/twitter/follow/shashan22341833?logo=twitter&style=for-the-badge" alt="shashan22341833" /></a> </p>
 
+<img align="right" alt="GIF" width="420" height="360" src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47bidyuwqb4e0p850bbgagdt07u21n5v463au9i4oe&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **Computer Vision Project**
 
 - 🌱 I’m currently learning **Data Extraction from PDf and Images with the help of OCR.**
