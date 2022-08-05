@@ -1,11 +1,15 @@
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">GitHub Profile Trophy</h2>
+  
 <h1 align="center">Hi 👋, I'm Shashank Shukla</h1>
 <h3 align="center">I'm a Husband, Father and Developer!!</h3> 
 <h4 align="center">A passionate Data Scientist from India</h4>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sshashank0743&label=Profile%20views&color=0e75b6&style=flat" alt="sshashank0743" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshashank0743" alt="sshashank0743" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sshashank0743&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/shashank_ai" target="blank"><img src="https://img.shields.io/twitter/follow/shashank_ai?logo=twitter&style=for-the-badge" alt="shashank_ai" /></a> </p>
 
