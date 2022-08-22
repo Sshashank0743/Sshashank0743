@@ -27,7 +27,7 @@
 
 - 📝 I write articles on [https://shashank00.medium.com/](https://shashank00.medium.com/)
 
-- 💬 Ask me about **Anything, I am ready to help.**
+- 💬 Ask me **Anything about python, SQL and ML I am ready to help.**
 
 - 📫 How to reach me **dsshuklashashank@gmail.com**
 
