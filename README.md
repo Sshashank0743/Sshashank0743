@@ -64,6 +64,6 @@ Whether you use this project, have learned something from it, or just like it, p
 ### Some insights about Github Profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sshashank0743&theme=synthwave)](https://github.com/sshashank0743/github-readme-stats)
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshashank0743&count_private=true&theme=synthwave)
+[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshashank0743&count_private=true&theme=synthwave)]
 
 
