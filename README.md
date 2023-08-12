@@ -62,6 +62,9 @@
   
   <a href="https://kotlinlang.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+
+  <a href="https://kotlinlang.org/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   
   <a href="https://www.android.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
