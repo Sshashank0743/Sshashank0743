@@ -23,13 +23,13 @@
 
 - 🤝 I’m looking for help with **OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sshashank0743?tab=projects](https://github.com/Sshashank0743?tab=projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Sshashank0743?tab=projects)
 
-- 📝 I write articles on [https://shashank00.medium.com/](https://shashank00.medium.com/)
+- 📝 I write articles on [Medium](https://shashank00.medium.com/)
 
-- 💬 Ask me **Anything about python, SQL and ML I am ready to help.**
+- 💬 Ask me **Anything about python, SQL and Android(JAVA), I am ready to help.**
 
-- 📫 How to reach me **dsshuklashashank@gmail.com**
+- 📫 How to reach me [Email](dsshuklashashank@gmail.com)
 
 - ⚡ Fun fact **I think I am Enviornment Changer**
 
@@ -50,16 +50,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank">  -->
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </p>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">  
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+  
+  <a href="https://www.java.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/> </a> 
+  
+  <a href="https://www.python.org" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="40" height="40"/> </a> 
+  
+  <a href="https://kotlinlang.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  
+  <a href="https://www.android.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
+</p>
 
 
 <h3 align="left">Buy me a coffee:</h3>
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects. :)
 <p><a href="https://www.buymeacoffee.com/shashankshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashankshukla" /></a></p><br><br>
 
 
