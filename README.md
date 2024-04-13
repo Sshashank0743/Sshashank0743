@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
-- 🤝 I’m looking for help with **OpenCV**
+- 🤝 I’m looking for help with **Use of AI in Android Development**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Sshashank0743?tab=projects)
 
