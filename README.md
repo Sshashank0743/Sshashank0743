@@ -3,7 +3,7 @@
   <h2 align="center">GitHub Profile Trophy</h2>
   
 <h1 align="center">Hi 👋, I'm Shashank Shukla</h1>
-<h3 align="center">I'm a Husband, Father and Developer!!</h3> 
+<!-- <h3 align="center">I'm a Husband, Father and Developer!!</h3>  -->
 <h4 align="center">A passionate Data Lover from India</h4>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" /> </p>
