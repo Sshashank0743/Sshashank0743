@@ -53,8 +53,8 @@
 
 
 <h3 align="left">Buy me a coffee:</h3>
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects. :)
-<p><a href="https://www.buymeacoffee.com/shashankshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashankshukla" /></a></p><br><br>
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects.
+<p><a href="[buymeacoffee.com/sshukla991j](https://buymeacoffee.com/sshukla991j)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashankshukla" /></a></p><br><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshashank0743&" alt="sshashank0743" /></p>
