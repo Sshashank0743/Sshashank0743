@@ -31,7 +31,7 @@
 
 - 📫 How to reach me [Email](dsshuklashashank@gmail.com)
 
-- ⚡ Fun fact **I think I am Enviornment Changer**
+- ⚡ Fun fact **I think I am Environment Changer**
 
 # [Portfolio](https://flowcv.me/shashank-shukla/) 
 
