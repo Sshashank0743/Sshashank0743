@@ -54,6 +54,7 @@
 
 <h3 align="left">Android Mobile Application:</h3>
 <p align="left"> <a href="https://play.google.com/store/apps/details?id=in.gemastra" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/GemAstra.svg" alt="gemastra" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=in.gemastra" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/GemAstra.svg" alt="blibrary" width="40" height="40"/> </a>
 
 
 
