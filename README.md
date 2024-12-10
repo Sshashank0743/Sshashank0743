@@ -53,8 +53,9 @@
 
 
 <h3 align="left">Android Mobile Application:</h3>
-<p align="left"> <a href="https://play.google.com/store/apps/details?id=in.gemastra" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/GemAstra.png" alt="gemastra" width="40" height="40"/> </a>
+<p align="left"> <a href="https://play.google.com/store/apps/details?id=in.gemastra" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/GemAstra.svg" alt="gemastra" width="40" height="40"/> </a>
 <a href="https://play.google.com/store/apps/details?id=com.shopsinlocal.shopsinlocalpartner" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/SL_Partner.png" alt="SL_Partner" width="40" height="40"/> </a>
+<a href="https://play.google.com/store/apps/details?id=in.blibrary" target="_blank" rel="noreferrer"> <img src="https://github.com/Sshashank0743/Sshashank0743/blob/main/favicon.png" alt="Barddhamana Library" width="50" height="40"/> </a>
 
 
 
